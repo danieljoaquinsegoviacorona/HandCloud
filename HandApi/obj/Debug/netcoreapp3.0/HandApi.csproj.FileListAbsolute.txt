@@ -1,6 +1,0 @@
-C:\Users\DanielJoaquinSegovia\Desktop\Hand\handapi\obj\Debug\netcoreapp3.0\HandApi.csprojAssemblyReference.cache
-C:\Users\DanielJoaquinSegovia\Desktop\Hand\handapi\obj\Debug\netcoreapp3.0\staticwebassets\HandApi.StaticWebAssets.Manifest.cache
-C:\Users\DanielJoaquinSegovia\Desktop\Hand\handapi\obj\Debug\netcoreapp3.0\staticwebassets\HandApi.StaticWebAssets.xml
-C:\Users\DanielJoaquinSegovia\Desktop\Hand\handapi\obj\Debug\netcoreapp3.0\HandApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\DanielJoaquinSegovia\Desktop\Hand\handapi\obj\Debug\netcoreapp3.0\HandApi.AssemblyInfoInputs.cache
-C:\Users\DanielJoaquinSegovia\Desktop\Hand\handapi\obj\Debug\netcoreapp3.0\HandApi.AssemblyInfo.cs
